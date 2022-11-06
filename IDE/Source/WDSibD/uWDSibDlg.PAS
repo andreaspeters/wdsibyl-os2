@@ -14,14 +14,18 @@ CONST StartupBmpWidth  = 346;
       StartupBmpHeight = 178;
 
 // Internetadressen
-Const MaxPowerby = 6;
-      cPowerByTxt : Array [1..6] of tStr30 =
-         ('CuL','Toolbox','OS/2 User Association Schweiz',
+Const MaxPowerby = 7;
+      cPowerByTxt : Array [1..7] of tStr30 =
+         (
+	  'AVENTER UG',
+	  'CuL','Toolbox','OS/2 User Association Schweiz',
           'OS/2 Team Hamburg','Martin Vieregg',
           'KFZ-Werkstatt Gerald Christ');
 
-      cPowerByLink : Array [1..6] of String =
-         ('http://www.cul.de',
+      cPowerByLink : Array [1..7] of String =
+         (
+	  'https://www.aventer.biz',
+	  'http://www.cul.de',
           'http://www.toolbox-mag.de',
           'http://www.os2.ch',
           'http://www.teamos2hamburg.de',
@@ -131,37 +135,6 @@ Begin
          'Version: ' + Application.GetProgramVersionString);
   fStatic.AutoSize:=TRUE;
   fStatic.XAlign:=xaCenter;
-
-  fmmContact:=InsertMemo(fgBox,60,10,353,81,'');
-  fmmContact.Color:=clYellow;
-  fmmContact.ReadOnly:=true;
-  fmmContact.Font:=Screen.GetFontFromPointSize('Courier',9);
-  fmmContact.Caption:='fjdkshfksajdhfk';
-  fmmContact.OnSetupShow:=evmmContactSetupShow;
-//  fmmContact.Text:=WDSibyl_Contact;
-
-// PoweredBy-Listbox erstellen
-  fStatic:=InsertLabel(Self,10,225,300,20, 'Powered by:');
-  fBitmapListBox:=InsertBitmapListBox(Self, 10, 50, 470, 170, 100);
-  fBitmapListBox.OnItemSelect:=BitmapListBoxOnItemSelect;
-  bmp.Create;
-
-// Alphabetisch sortiert
-  bmp.LoadFromResourceName('PWByChristG');
-  fBitmapListBox.AddBitmap(cPowerByTxt[6],bmp);
-  bmp.LoadFromResourceName('PwByCul');
-  fBitmapListBox.AddBitmap(cPowerByTxt[1],bmp);
-  bmp.LoadFromResourceName('PwByOS2Hamburg');
-  fBitmapListBox.AddBitmap(cPowerByTxt[4],bmp);
-  bmp.LoadFromResourceName('PWByOS2CH');
-  fBitmapListBox.AddBitmap(cPowerByTxt[3],bmp);
-  bmp.LoadFromResourceName('PwByToolbox');
-  fBitmapListBox.AddBitmap(cPowerByTxt[2],bmp);
-  bmp.LoadFromResourceName('PWByViereggM');
-  fBitmapListBox.AddBitmap(cPowerByTxt[5],bmp);
-
-// Bitmap-Objekt wieder zerstoeren
-  bmp.destroy;
 
   InsertBitBtnNLS(Self,210,10,80,30,bkOk,SOkButton,SClickHereToAccept);
 

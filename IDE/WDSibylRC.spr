@@ -4,11 +4,11 @@ ApplicationIcon=
 
 [Application Options OS/2]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
+ApplicationIcon=D:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_Win32.ICO
+ApplicationIcon=D:\WDSibyl\Bin\OS2\DEFAULT_Win32.ICO
 
 [Browser Files]
 
@@ -68,21 +68,21 @@ CompInstallDir=
 
 [Directories OS/2]
 
-LastDir=P:\WDSIBYL\BIN\OS2
-OutDir=P:\WDSIBYL\OS\OS2\Output
-LibDir=P:\WDSIBYL\OS\OS2\Lib
+LastDir=D:\WDSIBYL\BIN\OS2
+OutDir=D:\WDSIBYL\OS\OS2\Output
+LibDir=D:\WDSIBYL\OS\OS2\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\OS2\Compnt
+CompInstallDir=D:\WDSIBYL\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=P:\WDSIBYL\OS\Win32\Output
-LibDir=P:\WDSIBYL\OS\Win32\Lib
+OutDir=D:\WDSIBYL\OS\Win32\Output
+LibDir=D:\WDSIBYL\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\Win32\Compnt
+CompInstallDir=D:\WDSIBYL\OS\Win32\Compnt
 
 [Find History]
 
@@ -100,7 +100,7 @@ Find9=SiBitmapFiles
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\IDE\WDSibylRC.spr
+ProjectName=D:\WDSibyl\IDE\WDSibylRC.spr
 ProjectType=NonVisual
 RunParameter=
 InActiveLanguages=

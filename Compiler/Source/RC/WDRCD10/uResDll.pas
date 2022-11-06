@@ -115,23 +115,7 @@ Begin
   Parameter:=Uppercase(PasParams.Params);
   ParamList.Create;
   ParamList.AddSplit(Parameter,'-');
-  if ParamList.Count=0
-    then CompSystem:=goSysInfo.OS.System
-    else // Analyse
-      if Paramlist.Find('W32',Index)
-        then CompSystem:=Win32
-        else
-          Begin
-            CompSystem:=OS2;
-            While (CompSystem<>Unknown) and
-                  (Paramlist.Find(cSystem[ord(CompSystem)], Index)=false) do
-              inc(CompSystem);
-          End;
-  if CompSystem=Unknown then
-    Begin
-      CompStatusMsg('Error: Unknown OS: '+PasParams.Params,'',errNone,0,0);
-      exit;
-    end;
+  CompSystem:=goSysInfo.OS.System;
   CompStatusMsg('   for system: '+cSystem[ord(CompSystem)],'',errNone,0,0);
 
   OutputFilename:=ExtractFileName(PasParams.Quell);
@@ -139,11 +123,9 @@ Begin
   WorkPath[0]:=chr(ord(WorkPath[0])-1);    // Der String darf nicht mit "\" enden
   CompStatusMsg('WorkPath: '+WorkPath,'',errNone,0,0);
   chDir(WorkPath);
-  if PasParams.Out<>'' then // Output-Verzeichniss wurde angegeben
-    WorkPath:=PasParams.Out;
-  if CompSystem=OS2
-    then OutputFilename:=WorkPath+'\'+ChangeFileExt(OutputFilename, EXT_UC_WDSibyl_Res_SRF)
-    else OutputFilename:=WorkPath+'\'+ChangeFileExt(OutputFilename, EXT_UC_WDSibyl_Res_SRW);
+  WorkPath:=PasParams.Out;
+  OutputFilename:=WorkPath+'\'+ChangeFileExt(OutputFilename, EXT_UC_WDSibyl_Res_SRF);
+
   CompStatusMsg('OutputFile: '+OutputFilename,'',errNone,0,0);
 
 // List-Variablen initialisieren

@@ -1,10 +1,10 @@
 [Application Options OS/2]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
+ApplicationIcon=D:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_Win32.ICO
+ApplicationIcon=D:\WDSibyl\Bin\OS2\DEFAULT_Win32.ICO
 
 [Browser Files]
 
@@ -101,21 +101,21 @@ SPCC_Exceptions=4194303
 
 [Directories OS/2]
 
-LastDir=P:\WDSIBYL\IDE\Source\WDSibD
-OutDir=P:\WDSIBYL\OS\OS2\Output
-LibDir=P:\WDSIBYL\OS\OS2\Lib
+LastDir=D:\WDSIBYL\IDE\SOURCE\WDSIBD
+OutDir=D:\WDSIBYL\OS\OS2\Output
+LibDir=D:\WDSIBYL\OS\OS2\Lib
 LibSrcDir=
-IncSrcDir=P:\WDSibyl\Compiler\Source\Share
-CompInstallDir=P:\WDSIBYL\OS\OS2\Compnt
+IncSrcDir=D:\WDSibyl\Compiler\Source\Share
+CompInstallDir=D:\WDSIBYL\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=P:\WDSIBYL\OS\Win32\Output
-LibDir=P:\WDSIBYL\OS\Win32\Lib
+OutDir=D:\WDSIBYL\OS\Win32\Output
+LibDir=D:\WDSIBYL\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\Win32\Compnt
+CompInstallDir=D:\WDSIBYL\OS\Win32\Compnt
 
 [Find History]
 
@@ -132,7 +132,7 @@ Find8=hctx
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\IDE\WDSIBD.spr
+ProjectName=D:\WDSibyl\IDE\WDSIBD.spr
 ProjectType=NonVisual
 RunParameter=
 InActiveLanguages=
@@ -148,43 +148,43 @@ File0=..\.\Compiler\Source\Share\SPC_DATA.PAS
 File0=.\SOURCE\WDSIBD\WDSIBD.PAS
 File0.Left=-1
 File0.Bottom=-1
-File0.Width=952
-File0.Height=604
+File0.Width=798
+File0.Height=315
 File0.Column=26
 File0.Line=3
 File1=.\Source\WDSibD\uWDSibDlg.PAS
 File1.Left=-1
 File1.Bottom=-1
-File1.Width=952
-File1.Height=604
+File1.Width=798
+File1.Height=315
 File1.Column=18
 File1.Line=3
 File2=.\Source\WDSibD\uDLLDef.PAS
 File2.Left=-1
 File2.Bottom=-1
-File2.Width=952
-File2.Height=604
+File2.Width=798
+File2.Height=315
 File2.Column=6
 File2.Line=5
 File3=.\Source\WDSibD\WDSIBD.RC
 File3.Left=-1
 File3.Bottom=-1
-File3.Width=952
-File3.Height=604
+File3.Width=798
+File3.Height=315
 File3.Column=1
 File3.Line=1
 File4=.\Source\WDSibD\uWDSIBFun.PAS
 File4.Left=-1
 File4.Bottom=-1
-File4.Width=952
-File4.Height=604
+File4.Width=798
+File4.Height=315
 File4.Column=1
 File4.Line=1
 File5=..\.\Compiler\Source\Share\CONSTS.PAS
 File5.Left=-1
 File5.Bottom=-1
-File5.Width=952
-File5.Height=604
+File5.Width=798
+File5.Height=315
 File5.Column=27
 File5.Line=47
 

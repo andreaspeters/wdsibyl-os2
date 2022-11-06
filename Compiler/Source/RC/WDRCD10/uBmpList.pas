@@ -118,7 +118,7 @@ Begin
       Name:=Strings[Cou];
       bmpStream:= tMemoryStream(GetObject(Cou));
       sz:=BmpStream.Size;
-      if CompSystem=OS2
+      if CompSystem=goSysInfo.OS.System
         then po:=0
         else po:=StartPosWin;
       sz:=sz-po;

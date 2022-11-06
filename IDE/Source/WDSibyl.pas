@@ -62,7 +62,7 @@ PROGRAM WDSibyl;
 {$SCU}
                         
 {$IFDEF OS2}
-{$R P:\WDSibyl\WDSibyl\IDE\Output\OS2\SIB_ENG}
+{$R SIB_ENG}
 {$ENDIF}
 {$IFDEF Win32}
 {$R P:\WDSibyl\WDSibyl\IDE\Output\Win32\SIB_ENG}

@@ -4,11 +4,11 @@ ApplicationIcon=
 
 [Application Options OS/2]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
+ApplicationIcon=D:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_Win32.ICO
+ApplicationIcon=D:\WDSibyl\Bin\OS2\DEFAULT_Win32.ICO
 
 [Browser Files]
 
@@ -176,21 +176,21 @@ CompInstallDir=
 
 [Directories OS/2]
 
-LastDir=P:\WDSibyl\IDE\Source
-OutDir=P:\WDSIBYL\OS\OS2\Output
-LibDir=P:\Projekte\WDSIBYL\Lib
+LastDir=D:\WDSIBYL\IDE\SOURCE
+OutDir=D:\WDSIBYL\OS\OS2\Output
+LibDir=D:\Projekte\WDSIBYL\Lib
 LibSrcDir=
-IncSrcDir=P:\WDSibyl\Compiler\Source\Share
-CompInstallDir=P:\WDSIBYL\OS\OS2\Compnt
+IncSrcDir=D:\WDSibyl\Compiler\Source\Share
+CompInstallDir=D:\WDSIBYL\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=P:\WDSIBYL\OS\Win32\Output
-LibDir=P:\WDSIBYL\OS\Win32\Lib
+OutDir=D:\WDSIBYL\OS\Win32\Output
+LibDir=D:\WDSIBYL\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\Win32\Compnt
+CompInstallDir=D:\WDSIBYL\OS\Win32\Compnt
 
 [Find History]
 
@@ -214,7 +214,7 @@ Find15=EvPipeIn
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\IDE\WDSibylIDE.spr
+ProjectName=D:\WDSibyl\IDE\WDSibylIDE.spr
 ProjectType=NonVisual
 RunParameter=-log -nopipe
 InActiveLanguages=
@@ -234,57 +234,57 @@ File4=.\Source\FORMEDIT.PAS
 File0=.\Source\WDSibyl.pas
 File0.Left=-1
 File0.Bottom=-1
-File0.Width=952
-File0.Height=604
-File0.Column=18
-File0.Line=2175
+File0.Width=798
+File0.Height=446
+File0.Column=11
+File0.Line=65
 File1=.\Source\NAVIGATE.PAS
 File1.Left=-1
 File1.Bottom=-1
-File1.Width=952
-File1.Height=604
+File1.Width=798
+File1.Height=446
 File1.Column=12
 File1.Line=35
 File2=.\Source\INSPECT.PAS
 File2.Left=-1
 File2.Bottom=-1
-File2.Width=952
-File2.Height=604
+File2.Width=798
+File2.Height=446
 File2.Column=1
 File2.Line=49
 File3=..\.\Compiler\Source\Share\CONSTS.PAS
 File3.Left=-1
 File3.Bottom=-1
-File3.Width=952
-File3.Height=604
+File3.Width=798
+File3.Height=446
 File3.Column=1
 File3.Line=52
 File4=.\SOURCE\BASEEDIT.PAS
 File4.Left=-1
 File4.Bottom=-1
-File4.Width=952
-File4.Height=604
+File4.Width=798
+File4.Height=446
 File4.Column=29
 File4.Line=219
 File5=.\SOURCE\IDETOOLS.PAS
 File5.Left=-1
 File5.Bottom=-1
-File5.Width=952
-File5.Height=604
+File5.Width=798
+File5.Height=446
 File5.Column=1
 File5.Line=1
 File6=.\Source\SIB_PRJ.PAS
 File6.Left=-1
 File6.Bottom=-1
-File6.Width=952
-File6.Height=604
+File6.Width=798
+File6.Height=446
 File6.Column=35
 File6.Line=3409
 File7=.\Source\SIB_DLG.PAS
 File7.Left=-1
 File7.Bottom=-1
-File7.Width=952
-File7.Height=604
+File7.Width=798
+File7.Height=446
 File7.Column=60
 File7.Line=8831
 
@@ -307,7 +307,7 @@ Stack=256
 Primary=.\Source\WDSibyl.pas
 MainFile0=.\Source\WDSibyl.pas
 MainFile0.Ext=.EXE
-MainFile0.Checksum=28416
+MainFile0.Checksum=0
 MainFile0.Expanded=False
 MainFile0.File0=.\Source\BASEEDIT.PAS
 MainFile0.File1=.\Source\BASEFORM.PAS
