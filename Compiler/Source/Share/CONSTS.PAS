@@ -63,11 +63,10 @@ USES Forms,Graphics, Messages, Menus, uSysClass,
 Const WDSibyl_AppName     = 'WDSibyl';
       WDSibyl_Version     = 3;
       WDSibyl_SubVersion  = 14;
-      WDSibyl_HomepageLink= 'http://www.wdsibyl.org';
-      WDSibyl_Contact     = 'Name:  Ing. Wolfgang Draxler'+ #13#10+
-                            'E-Mail:WDSibyl@wdsibyl.org'+ #13#10+
-                            'BIC:   DABBDEMM'+ #13#10+
-                            'IBAN:  DE64701204007384621004';
+      WDSibyl_HomepageLink= 'https://github.com/andreaspeters/wdsibyl-os2';
+      WDSibyl_Contact     = 'Name:     Andreas Peters'+ #13#10+
+                            'E-Mail:   support@aventer.biz'+ #13#10+
+                            'Mastodon: https://mastodon.aventer.biz/@andreas';
 
 // Semaphore
       WDSibyl_Sem_CompileALLRC = 'WDSRC';

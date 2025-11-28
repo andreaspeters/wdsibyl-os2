@@ -76,7 +76,7 @@ MaxErrors=10
 
 [Component Library OS/2]
 
-CompLibName=Y:\Anwendungen\WDSibyl\Bin\OS2\CompLib.dll
+CompLibName=Z:\OS2\WDSibyl\Bin\OS2\CompLib.dll
 
 [Component Library Win32]
 
@@ -92,20 +92,20 @@ SPCC_Exceptions=4194303
 [Directories OS/2]
 
 LastDir=
-OutDir=Y:\Anwendungen\WDSibyl\OS\OS2\Output
-LibDir=Y:\Anwendungen\WDSibyl\OS\OS2\Lib
+OutDir=Z:\OS2\WDSibyl\OS\OS2\Output
+LibDir=Z:\OS2\WDSibyl\OS\OS2\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=Y:\Anwendungen\WDSibyl\OS\OS2\Compnt
+CompInstallDir=Z:\OS2\WDSibyl\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=Y:\Anwendungen\WDSibyl\OS\Win32\Output
-LibDir=Y:\Anwendungen\WDSibyl\OS\Win32\Lib
+OutDir=Z:\OS2\WDSibyl\OS\Win32\Output
+LibDir=Z:\OS2\WDSibyl\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=Y:\Anwendungen\WDSibyl\OS\Win32\Compnt
+CompInstallDir=Z:\OS2\WDSibyl\OS\Win32\Compnt
 
 [Find History]
 

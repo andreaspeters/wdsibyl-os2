@@ -26,11 +26,11 @@ Const MaxPowerby = 7;
          (
 	  'https://www.aventer.biz',
 	  'http://www.cul.de',
-          'http://www.toolbox-mag.de',
-          'http://www.os2.ch',
-          'http://www.teamos2hamburg.de',
-          'http://www.hypermake.com/english/home.html',
-          'http://www.kfz-werkstaette.com');
+    'http://www.toolbox-mag.de',
+    'http://www.os2.ch',
+    'http://www.teamos2hamburg.de',
+    'http://www.hypermake.com/english/home.html',
+    'http://www.kfz-werkstaette.com');
 {
 ษอออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
 บ                                                                           บ
