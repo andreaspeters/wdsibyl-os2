@@ -7,8 +7,8 @@ Stack	256
 starten von VDM			on
 Debugger 'schnelles Auswerten'	on
 
-Ausgabe 				P:\WDSIBYL\OS\OS2\Output
-Unit					P:\WDSIBYL\OS\OS2\Lib
-Quellen-Verzeichnisse			P:\WDSibyl\Compiler\Source\Share\SPC_DATA.PAS
-Komponenten				P:\WDSIBYL\OS\OS2\Compnt
+Ausgabe 				D:\WDSIBYL\OS\OS2\Output
+Unit					D:\WDSIBYL\OS\OS2\Lib
+Quellen-Verzeichnisse			D:\WDSibyl\Compiler\Source\Share\SPC_DATA.PAS
+Komponenten				D:\WDSIBYL\OS\OS2\Compnt
 

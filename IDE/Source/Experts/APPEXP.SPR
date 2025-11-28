@@ -6,10 +6,6 @@ ApplicationIcon=F:\SPRACHEN\PASCAL\WDSIBYL\BIN\default_os2.ico
 
 ApplicationIcon=
 
-[Breakpoints]
-
-Breakpoint0=.\APPEXP\UAPPEXP.PAS|1142
-
 [Browser Files]
 
 File0=SYSTEM
@@ -76,7 +72,7 @@ MaxErrors=10
 
 [Component Library OS/2]
 
-CompLibName=Z:\OS2\WDSibyl\Bin\OS2\CompLib.dll
+CompLibName=V:\Temp\WDSibyl\Bin\OS2\CompLib.dll
 
 [Component Library Win32]
 
@@ -89,23 +85,37 @@ Dbg_Options=1
 RTL_Exceptions=1073741823
 SPCC_Exceptions=4194303
 
+[Debugger Options OS/2]
+
+DebugInfo=LineNumbers,LocalSymbols
+Dbg_Options=1
+RTL_Exceptions=1073741823
+SPCC_Exceptions=4194303
+
+[Debugger Options Win32]
+
+DebugInfo=LineNumbers,LocalSymbols
+Dbg_Options=1
+RTL_Exceptions=1073741823
+SPCC_Exceptions=4194303
+
 [Directories OS/2]
 
-LastDir=
-OutDir=Z:\OS2\WDSibyl\OS\OS2\Output
-LibDir=Z:\OS2\WDSibyl\OS\OS2\Lib
+LastDir=F:\SPRACHEN\PASCAL\WDSIBYL\BIN\OS2
+OutDir=V:\Temp\WDSibyl\OS\OS2\Output
+LibDir=V:\Temp\WDSibyl\OS\OS2\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=Z:\OS2\WDSibyl\OS\OS2\Compnt
+CompInstallDir=V:\Temp\WDSibyl\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=Z:\OS2\WDSibyl\OS\Win32\Output
-LibDir=Z:\OS2\WDSibyl\OS\Win32\Lib
+OutDir=V:\Temp\WDSibyl\OS\Win32\Output
+LibDir=V:\Temp\WDSibyl\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=Z:\OS2\WDSibyl\OS\Win32\Compnt
+CompInstallDir=V:\Temp\WDSibyl\OS\Win32\Compnt
 
 [Find History]
 
@@ -119,7 +129,7 @@ Find5=next
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\WDSibyl\IDE\Source\EXPERTS\APPEXP.SPR
+ProjectName=D:\WDSibyl\IDE\Source\Experts\APPEXP.SPR
 ProjectType=Visual
 RunParameter=
 InActiveLanguages=
@@ -131,29 +141,29 @@ Platform=OS/2
 File0=.\APPEXP\APPEXP.PAS
 File0.Left=-1
 File0.Bottom=-1
-File0.Width=804
-File0.Height=456
+File0.Width=707
+File0.Height=527
 File0.Column=14
 File0.Line=6
 File1=.\APPEXP\uAppExp.PAS
 File1.Left=-1
 File1.Bottom=-1
-File1.Width=804
-File1.Height=456
-File1.Column=1
-File1.Line=1143
+File1.Width=707
+File1.Height=527
+File1.Column=17
+File1.Line=1142
 File2=.\APPEXP\AppExp.RC
 File2.Left=-1
 File2.Bottom=-1
-File2.Width=804
-File2.Height=456
+File2.Width=707
+File2.Height=527
 File2.Column=1
 File2.Line=1
 File3=..\..\..\.\Library\Source\SPCC\TOOLSAPI.PAS
 File3.Left=-1
 File3.Bottom=-1
-File3.Width=804
-File3.Height=456
+File3.Width=707
+File3.Height=527
 File3.Column=30
 File3.Line=389
 

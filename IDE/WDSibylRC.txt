@@ -8,6 +8,6 @@ Stack	256
 starten von VDM			on
 Debugger (alle Optionen)	on
 
-Ausgabe 				P:\WDSIBYL\OS\OS2\Output
-Unit					P:\WDSIBYL\OS\OS2\Lib
-Komponenten				P:\WDSIBYL\OS\OS2\Compnt
+Ausgabe 				D:\WDSIBYL\OS\OS2\Output
+Unit					D:\WDSIBYL\OS\OS2\Lib
+Komponenten				D:\WDSIBYL\OS\OS2\Compnt

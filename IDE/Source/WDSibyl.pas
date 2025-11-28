@@ -65,7 +65,7 @@ PROGRAM WDSibyl;
 {$R SIB_ENG}
 {$ENDIF}
 {$IFDEF Win32}
-{$R P:\WDSibyl\WDSibyl\IDE\Output\Win32\SIB_ENG}
+{$R D:\WDSibyl\OS\WIN\Output\SIB_ENG}
 {$ENDIF}
 { WDSibyl.RC ins BASEEDIT verschoben }
                                
@@ -195,8 +195,8 @@ BEGIN
 {$IFDEF OS2}
   d:=GetInstallDir;
   Application.LogWriteln('Verzeichnis: '+d);
-  if Uppercase(d)='P:\WDSIBYL\WDSIBYL\IDE\OUTPUT\OS2'
-    then d:='P:\WDSibyl\WDSibyl\Help\OS2\'    // WD-Entwicklungsumgebung
+  if Uppercase(d)='D:\WDSIBYL\WDSIBYL\IDE\OUTPUT\OS2'
+    then d:='D:\WDSibyl\WDSibyl\Help\OS2\'    // WD-Entwicklungsumgebung
     else d:=d+'\Help\OS2\';
 {$ENDIF}
 {$IFDEF WIN32}
