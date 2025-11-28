@@ -115,9 +115,9 @@ Begin
   HelpContext := fInfo.HelpContext;  //hctxDialogAbout;
   Caption:=fInfo.Caption;           //LoadNLSStr(SiProductInformation);
   Width:=500;
-  Height:=630;
+  Height:=430;
 
-  fGBox:=InsertGroupBoxNLS(Self,10,255,470,335,0);
+  fGBox:=InsertGroupBoxNLS(Self,10,55,470,335,0);
   fPicture:=InsertImageName(fGBox,10,142,StartupBmpWidth,StartupBmpHeight,'SibLogo');
   fPicture.XAlign:=xaCenter;
   fPicture.ZOrder:=zoTop;
@@ -138,30 +138,7 @@ Begin
   fmmContact.Font:=Screen.GetFontFromPointSize('Courier',9);
   fmmContact.Caption:='fjdkshfksajdhfk';
   fmmContact.OnSetupShow:=evmmContactSetupShow;
-//  fmmContact.Text:=WDSibyl_Contact;
-
-// PoweredBy-Listbox erstellen
-  fStatic:=InsertLabel(Self,10,225,300,20, 'Powered by:');
-  fBitmapListBox:=InsertBitmapListBox(Self, 10, 50, 470, 170, 100);
-  fBitmapListBox.OnItemSelect:=BitmapListBoxOnItemSelect;
-  bmp.Create;
-
-// Alphabetisch sortiert
-  bmp.LoadFromResourceName('PWByChristG');
-  fBitmapListBox.AddBitmap(cPowerByTxt[6],bmp);
-  bmp.LoadFromResourceName('PwByCul');
-  fBitmapListBox.AddBitmap(cPowerByTxt[1],bmp);
-  bmp.LoadFromResourceName('PwByOS2Hamburg');
-  fBitmapListBox.AddBitmap(cPowerByTxt[4],bmp);
-  bmp.LoadFromResourceName('PWByOS2CH');
-  fBitmapListBox.AddBitmap(cPowerByTxt[3],bmp);
-  bmp.LoadFromResourceName('PwByToolbox');
-  fBitmapListBox.AddBitmap(cPowerByTxt[2],bmp);
-  bmp.LoadFromResourceName('PWByViereggM');
-  fBitmapListBox.AddBitmap(cPowerByTxt[5],bmp);
-
-// Bitmap-Objekt wieder zerstoeren
-  bmp.destroy;
+  fmmContact.Text:=WDSibyl_Contact;
 
   InsertBitBtnNLS(Self,210,10,80,30,bkOk,SOkButton,SClickHereToAccept);
 

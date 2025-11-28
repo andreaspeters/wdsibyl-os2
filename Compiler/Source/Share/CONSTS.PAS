@@ -62,7 +62,7 @@ USES Forms,Graphics, Messages, Menus, uSysClass,
 // Konstanten fuer die Version
 Const WDSibyl_AppName     = 'WDSibyl';
       WDSibyl_Version     = 3;
-      WDSibyl_SubVersion  = 14;
+      WDSibyl_SubVersion  = 15;
       WDSibyl_HomepageLink= 'https://github.com/andreaspeters/wdsibyl-os2';
       WDSibyl_Contact     = 'Name:     Andreas Peters'+ #13#10+
                             'E-Mail:   support@aventer.biz'+ #13#10+
