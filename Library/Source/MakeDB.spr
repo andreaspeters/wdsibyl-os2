@@ -8,7 +8,7 @@ ApplicationIcon=
 
 [Application Options OS/2]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
+ApplicationIcon=Z:\os2\WDSIBYL\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
@@ -130,21 +130,21 @@ CompInstallDir=
 
 [Directories OS/2]
 
-LastDir=P:\WDSIBYL\BIN\OS2
-OutDir=P:\WDSIBYL\OS\OS2\Output
-LibDir=P:\WDSIBYL\OS\OS2\Lib
+LastDir=Z:\os2\WDSIBYL\BIN\OS2
+OutDir=Z:\os2\WDSIBYL\OS\OS2\Output
+LibDir=Z:\os2\WDSIBYL\OS\OS2\Lib
 LibSrcDir=
-IncSrcDir=P:\WDSibyl\Library\Source\SPCC;P:\WDSibyl\Library\Source\RTL;P:\WDSibyl\Library\Source\RTL\OS2;P:\WDSibyl\Library\Source\RC;P:\WDSibyl\Library\Source\TP70;P:\WDSibyl\Library\Source\DB\mySQL;P:\WDSibyl\Library\Source\DB
-CompInstallDir=P:\WDSIBYL\OS\OS2\Compnt
+IncSrcDir=Z:\os2\WDSIBYL\Library\Source\SPCC;Z:\os2\WDSIBYL\Library\Source\RTL;Z:\os2\WDSIBYL\Library\Source\RTL\OS2;Z:\os2\WDSIBYL\Library\Source\RC;Z:\os2\WDSIBYL\Library\Source\TP70;Z:\os2\WDSIBYL\Library\Source\DB\mySQL;Z:\os2\WDSIBYL\Library\Source\DB
+CompInstallDir=Z:\os2\WDSIBYL\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=P:\WDSIBYL\OS\Win32\Output
-LibDir=P:\WDSIBYL\OS\Win32\Lib
+OutDir=Z:\os2\WDSIBYL\OS\Win32\Output
+LibDir=Z:\os2\WDSIBYL\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\Win32\Compnt
+CompInstallDir=Z:\os2\WDSIBYL\OS\Win32\Compnt
 
 [Find History]
 
@@ -168,7 +168,7 @@ Find15=tStrings
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\Library\Source\MakeDB.spr
+ProjectName=Z:\os2\WDSIBYL\Library\Source\MakeDB.spr
 ProjectType=NonVisual
 RunParameter=
 InActiveLanguages=
@@ -355,12 +355,12 @@ SPCC_Exceptions=4194303
 
 [Win32 Directories]
 
-LastDir=P:\WDSibyl\Allgemeines
-OutDir=P:\WDSibyl\BS\OS2\Output
-LibDir=P:\WDSibyl\BS\OS2\LIB;P:\WDSibyl\Allgemeines
-LibSrcDir=P:\WDSibyl\WDSibylIDE\Source\RTL;P:\WDSibyl\WDSibylIDE\Source\SPCC;P:\WDSibyl\Allgemeines
-IncSrcDir=P:\WDSibyl\Allgemeines
-CompInstallDir=P:\WDSibyl\BS\OS2\Compnt;P:\WDSibyl\Allgemeines
+LastDir=Z:\os2\WDSIBYL\Allgemeines
+OutDir=Z:\os2\WDSIBYL\BS\OS2\Output
+LibDir=Z:\os2\WDSIBYL\BS\OS2\LIB;Z:\os2\WDSIBYL\Allgemeines
+LibSrcDir=Z:\os2\WDSIBYL\WDSibylIDE\Source\RTL;Z:\os2\WDSIBYL\WDSibylIDE\Source\SPCC;Z:\os2\WDSIBYL\Allgemeines
+IncSrcDir=Z:\os2\WDSIBYL\Allgemeines
+CompInstallDir=Z:\os2\WDSIBYL\BS\OS2\Compnt;Z:\os2\WDSIBYL\Allgemeines
 
 [Win32 Linker Options]
 

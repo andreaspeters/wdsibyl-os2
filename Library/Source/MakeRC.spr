@@ -4,11 +4,11 @@ ApplicationIcon=
 
 [Application Options OS/2]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
+ApplicationIcon=Z:\os2\WDSIBYL\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
-ApplicationIcon=P:\WDSIBYL\WDSIBYL\BIN\OS2\DEFAULT_Win32.ICO
+ApplicationIcon=Z:\os2\WDSIBYL\WDSIBYL\BIN\OS2\DEFAULT_Win32.ICO
 
 [Browser Files]
 
@@ -68,21 +68,21 @@ CompInstallDir=
 
 [Directories OS/2]
 
-LastDir=P:\WDSibyl\IDE\Source
-OutDir=P:\WDSIBYL\OS\OS2\Output
-LibDir=P:\WDSIBYL\OS\OS2\Lib
+LastDir=Z:\os2\WDSIBYL\IDE\Source
+OutDir=Z:\os2\WDSIBYL\OS\OS2\Output
+LibDir=Z:\os2\WDSIBYL\OS\OS2\Lib
 LibSrcDir=
-IncSrcDir=P:\WDSibyl\Library\Source\RTL;P:\WDSibyl\Library\Source\RC;P:\WDSibyl\IDE\Source
-CompInstallDir=P:\WDSIBYL\OS\OS2\Compnt
+IncSrcDir=Z:\os2\WDSIBYL\Library\Source\RTL;Z:\os2\WDSIBYL\Library\Source\RC;Z:\os2\WDSIBYL\IDE\Source
+CompInstallDir=Z:\os2\WDSIBYL\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=P:\WDSIBYL\OS\Win32\Output
-LibDir=P:\WDSIBYL\OS\Win32\Lib
+OutDir=Z:\os2\WDSIBYL\OS\Win32\Output
+LibDir=Z:\os2\WDSIBYL\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\Win32\Compnt
+CompInstallDir=Z:\os2\WDSIBYL\OS\Win32\Compnt
 
 [Find History]
 
@@ -106,7 +106,7 @@ Find15=usser
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\Library\Source\MakeRC.spr
+ProjectName=Z:\os2\WDSIBYL\Library\Source\MakeRC.spr
 ProjectType=NonVisual
 RunParameter=
 InActiveLanguages=

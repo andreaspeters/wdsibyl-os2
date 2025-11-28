@@ -32,3 +32,5 @@ Reienfolge:
   MakeMultiMedia
   MakeInternet
 
+WICHTIG: neue SPU über die WDSibyl "Komponente->hinzufügen" installieren.
+

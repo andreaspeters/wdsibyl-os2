@@ -1,6 +1,6 @@
 [Application Options OS/2]
 
-ApplicationIcon=P:\WDSibyl\Bin\OS2\DEFAULT_OS2.ICO
+ApplicationIcon=Z:\os2\WDSIBYL\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
@@ -97,21 +97,21 @@ SPCC_Exceptions=4194303
 
 [Directories OS/2]
 
-LastDir=P:\WDSIBYL\BIN\OS2
-OutDir=P:\WDSIBYL\OS\OS2\Output
-LibDir=P:\WDSIBYL\OS\OS2\Lib
+LastDir=Z:\os2\WDSIBYL\BIN\OS2
+OutDir=Z:\os2\WDSIBYL\OS\OS2\Output
+LibDir=Z:\os2\WDSIBYL\OS\OS2\Lib
 LibSrcDir=
-IncSrcDir=P:\WDSibyl\Library\Source\RTL\OS2;P:\WDSibyl\Library\Source\RC;P:\WDSibyl\Library\Source\RTL
-CompInstallDir=P:\WDSIBYL\OS\OS2\Compnt
+IncSrcDir=Z:\os2\WDSIBYL\Library\Source\RTL\OS2;Z:\os2\WDSIBYL\Library\Source\RC;Z:\os2\WDSIBYL\Library\Source\RTL
+CompInstallDir=Z:\os2\WDSIBYL\OS\OS2\Compnt
 
 [Directories Win32]
 
 LastDir=
-OutDir=P:\WDSIBYL\OS\Win32\Output
-LibDir=P:\WDSIBYL\OS\Win32\Lib
+OutDir=Z:\os2\WDSIBYL\OS\Win32\Output
+LibDir=Z:\os2\WDSIBYL\OS\Win32\Lib
 LibSrcDir=
 IncSrcDir=
-CompInstallDir=P:\WDSIBYL\OS\Win32\Compnt
+CompInstallDir=Z:\os2\WDSIBYL\OS\Win32\Compnt
 
 [Find History]
 
@@ -135,7 +135,7 @@ Find15='ru'
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=P:\WDSibyl\Library\Source\MakeRTL.spr
+ProjectName=Z:\os2\WDSIBYL\Library\Source\MakeRTL.spr
 ProjectType=NonVisual
 RunParameter=
 InActiveLanguages=

@@ -5,7 +5,7 @@ Library CompLib;
 Uses
   Classes, Forms;
 Uses
-  MYDRAWGRID;
+  MYDRAWGRID, NEWGRIDS;
 
 Exports
   SetupCompLib name 'SETUPCOMPLIB',
@@ -17,5 +17,5 @@ Exports
   GetExperts name 'GETEXPERTS';
 
 Begin
-  RegisterClasses([TMYDRAWGRID]); 
+  RegisterClasses([TMYDRAWGRID, NEWTDRAWGRID, NEWTSTRINGGRID]); 
 End.
