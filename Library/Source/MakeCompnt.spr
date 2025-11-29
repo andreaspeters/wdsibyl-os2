@@ -82,6 +82,12 @@ File66=UPROGRESSTEXT
 File67=BSEDEV
 File68=UPORTS
 File69=UCOLORWHEEL
+File70=UDIRECTORYEDIT
+File71=UOUTLINE2
+File72=UCONTROLSCROLLING
+File73=UCOSTOMDIROUTLINE
+File74=UCOSTOMOUTLINE
+File75=UCOOLBAR2
 
 [Compiler Options]
 
@@ -298,7 +304,13 @@ MainFile0.File19=.\Compnt\uPorts.PAS
 MainFile0.File20=.\Compnt\uColorWheel.PAS
 MainFile0.File21=.\Compnt\WRAPED.PAS
 MainFile0.File22=.\Compnt\CHART.PAS
-MainFile0.File23=[Dependencies]
+MainFile0.File23=.\Compnt\uDirectoryEdit.pas
+MainFile0.File24=.\Compnt\uOutline2.pas
+MainFile0.File25=.\Compnt\uControlScrolling.pas
+MainFile0.File26=.\Compnt\uCustomDirOutline.pas
+MainFile0.File27=.\Compnt\uCustomOutline.pas
+MainFile0.File28=.\Compnt\uCoolbar2.pas
+MainFile0.File29=[Dependencies]
 MainFile0.Dependency0=.\RTL\SYSTEM.PAS
 MainFile0.Dependency1=.\RTL\OS2\OS2DEF.PAS
 MainFile0.Dependency2=.\RTL\OS2\BSETIB.PAS

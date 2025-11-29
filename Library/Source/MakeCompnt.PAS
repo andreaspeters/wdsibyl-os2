@@ -20,7 +20,13 @@ uses BMPLIST, CHART, CALENDAR, CHECKLB, CLOCKS, COLORGRD, COOLBAR, DIROUTLN,
             
 uses uProgressText,
      uPorts,              { Komponente fuer die Serielle-Schnittstelle; vorher tSerial und Joystick }
-     uColorWheel;         { Komponente fuer ColorWheel und ValueBar }
+     uColorWheel,         { Komponente fuer ColorWheel und ValueBar }
+     uDirectoryEdit,
+     uOutline2,
+     uControlScrolling,
+     uCustomDirOutline,
+     uCustomOutline,
+     uCoolbar2;
                    
 BEGIN                   
 END.
