@@ -24,6 +24,7 @@ PROGRAM makeRC;
 {$R Seven}
 {$R Spin}
 {$R TabCtrls}
+{$R RichTextView}
 
 BEGIN
 END.

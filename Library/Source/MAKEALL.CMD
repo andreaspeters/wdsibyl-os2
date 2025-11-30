@@ -14,6 +14,7 @@
 ..\..\bin\os2\wdrcc10.exe rc\SPCC.INC
 ..\..\bin\os2\wdrcc10.exe rc\SPIN.RC
 ..\..\bin\os2\wdrcc10.exe rc\TABCTRLS.RC
+..\..\bin\os2\wdrcc10.exe rc\RichTextView.rc
 move rc\*.srf ..\..\os\os2\lib
 
 
@@ -27,6 +28,7 @@ move rc\*.srf ..\..\os\os2\lib
 ..\..\bin\os2\wdspc10.exe makedialog.pas ..\..\os\os2\lib ..\..\os\os2\lib rtl;db;dialog %1-m-$WA--$C+
 ..\..\bin\os2\wdspc10.exe makeinternet.pas ..\..\os\os2\lib ..\..\os\os2\lib rtl;db;internet %1-m-$WA--$C+
 ..\..\bin\os2\wdspc10.exe makemultimedia.pas ..\..\os\os2\lib ..\..\os\os2\lib rtl;multimedia;rtl\os2;spcc;tp70 %1-m-$WA--$C+
+..\..\bin\os2\wdspc10.exe makeuser.pas ..\..\os\os2\lib ..\..\os\os2\lib rtl;user;rtl\os2;spcc %1-m-$WA--$C+
 
 
 

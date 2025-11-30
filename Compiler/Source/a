@@ -1,0 +1,249 @@
+..\..\bin\os2\wdspc10.exe pas\wdspc10\wdspc10.pas ..\..\os\os2\lib ..\..\os\os2\lib share -$C+-M
+Datei: Z:\os2\WDSibyl\Compiler\Source\pas\wdspc10\wdspc10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\pas\wdspc10\wdspc10.pas
+Parameter: -$C+-M
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08AB66C0, <InvokeSPC>
+  Break-Handle :$08AB669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\PAS\WDSPC10\WDSPC10.PAS
+WDSPC10.PAS (1)
+WDSPC10.PAS (309)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe pas\wdspc10\wdspc10.pas ..\..\os\os2\output ..\..\os\os2\lib -$C+-VDM-T2-OS2
+Datei: Z:\os2\WDSibyl\Compiler\Source\pas\wdspc10\wdspc10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\pas\wdspc10\wdspc10.pas
+Parameter: -$C+-VDM-T2-OS2
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08AB66C0, <InvokeSPC>
+  Break-Handle :$08AB669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\PAS\WDSPC10\WDSPC10.PAS
+WDSPC10.PAS (1)
+WDSPC10.PAS (309)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe pas\wdspd10\wdspd10.pas ..\..\os\os2\output ..\..\os\os2\lib share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+
+Datei: Z:\os2\WDSibyl\Compiler\Source\pas\wdspd10\wdspd10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\pas\wdspd10\wdspd10.pas
+Parameter: -$C+
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08A966C0, <InvokeSPC>
+  Break-Handle :$08A9669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\PAS\WDSPD10\WDSPD10.PAS
+WDSPD10.PAS (1)
+Warning at [63,7] in WDSPD10.PAS  "Virtual method redefined (Create)"
+Warning at [105,5] in WDSPD10.PAS  "'Version' is declared but never used in Create ()"
+WDSPD10.PAS (240)
+2 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe rc\wdrcc10\wdrcc10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+-M
+Datei: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcc10\wdrcc10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcc10\wdrcc10.pas
+Parameter: -$C+-M
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08A766C0, <InvokeSPC>
+  Break-Handle :$08A7669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\RC\WDRCC10\WDRCC10.PAS
+WDRCC10.PAS (1)
+WDRCC10.PAS (98)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe rc\wdrcc10\wdrcc10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+
+Datei: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcc10\wdrcc10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcc10\wdrcc10.pas
+Parameter: -$C+
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08A566C0, <InvokeSPC>
+  Break-Handle :$08A5669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\RC\WDRCC10\WDRCC10.PAS
+WDRCC10.PAS (1)
+WDRCC10.PAS (98)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe rc\wdrcd10\wdrcd10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+-M
+Datei: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcd10\wdrcd10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcd10\wdrcd10.pas
+Parameter: -$C+-M
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08A366C0, <InvokeSPC>
+  Break-Handle :$08A3669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\RC\WDRCD10\WDRCD10.PAS
+WDRCD10.PAS (1)
+WDRCD10.PAS (20)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe rc\wdrcd10\wdrcd10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+
+Datei: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcd10\wdrcd10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\rc\wdrcd10\wdrcd10.pas
+Parameter: -$C+
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$08A166C0, <InvokeSPC>
+  Break-Handle :$08A1669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\RC\WDRCD10\WDRCD10.PAS
+WDRCD10.PAS (1)
+WDRCD10.PAS (20)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe hlp\wdhlpd10\wdhlpd10.pas ..\..\os\os2\lib ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+-M
+Datei: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpd10\wdhlpd10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpd10\wdhlpd10.pas
+Parameter: -$C+-M
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$089F66C0, <InvokeSPC>
+  Break-Handle :$089F669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\HLP\WDHLPD10\WDHLPD10.PAS
+WDHLPD10.PAS (1)
+WDHLPD10.PAS (20)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe hlp\wdhlpc10\wdhlpc10.pas ..\..\os\os2\lib ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+-M
+Datei: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpc10\wdhlpc10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpc10\wdhlpc10.pas
+Parameter: -$C+-M
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$089D66C0, <InvokeSPC>
+  Break-Handle :$089D669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\HLP\WDHLPC10\WDHLPC10.PAS
+WDHLPC10.PAS (1)
+WDHLPC10.PAS (106)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe hlp\wdhlpc10\wdhlpc10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+-T2
+Datei: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpc10\wdhlpc10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpc10\wdhlpc10.pas
+Parameter: -$C+-T2
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$089B66C0, <InvokeSPC>
+  Break-Handle :$089B669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\HLP\WDHLPC10\WDHLPC10.PAS
+WDHLPC10.PAS (1)
+WDHLPC10.PAS (106)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe hlp\wdhlpd10\wdhlpd10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc -$C+
+Datei: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpd10\wdhlpd10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\hlp\wdhlpd10\wdhlpd10.pas
+Parameter: -$C+
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$089966C0, <InvokeSPC>
+  Break-Handle :$0899669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\HLP\WDHLPD10\WDHLPD10.PAS
+WDHLPD10.PAS (1)
+WDHLPD10.PAS (20)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe wdspdb10\wdspdb10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc;wdspdb10 -$C+-M
+Datei: Z:\os2\WDSibyl\Compiler\Source\wdspdb10\wdspdb10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\wdspdb10\wdspdb10.pas
+Parameter: -$C+-M
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$089766C0, <InvokeSPC>
+  Break-Handle :$0897669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\WDSPDB10\WDSPDB10.PAS
+WDSPDB10.PAS (1)
+WDSPDB10.PAS (178)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+
+..\..\bin\os2\wdspc10.exe wdspdb10\wdspdb10.pas ..\..\os\os2\output ..\..\os\os2\lib .\share;..\..\library\source\rtl;..\..\library\source\rtl\os2;..\..\library\source\tp70;..\..\library\source\rc;..\..\library\source\spcc;wdspdb10 -$C+
+Datei: Z:\os2\WDSibyl\Compiler\Source\wdspdb10\wdspdb10.pas
+WDSibyl Pascal Compiler Version 1.0
+Compiling: Z:\os2\WDSibyl\Compiler\Source\wdspdb10\wdspdb10.pas
+Parameter: -$C+
+Defines: 
+Own-Handle:$00000F44, WDSPD10.DLL
+  Invoke-Handle:$089566C0, <InvokeSPC>
+  Break-Handle :$0895669C, <BreakCompiler>
+SPDLL:Z:\OS2\WDSIBYL\BIN\OS2\SPDLL25.DLL
+Sibyl compiler version 3.0
+Compiling: Z:\OS2\WDSIBYL\COMPILER\SOURCE\WDSPDB10\WDSPDB10.PAS
+WDSPDB10.PAS (1)
+WDSPDB10.PAS (178)
+0 Warnings   0 Errors
+Linking...
+Writing EXE...
+SUCCESS !
+

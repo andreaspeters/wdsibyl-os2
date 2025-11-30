@@ -12,7 +12,7 @@ ApplicationIcon=Z:\os2\WDSIBYL\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
-ApplicationIcon=F:\SPRACHEN\PASCAL\WDSIBYL\BIN\OS2\default_win32.ico
+ApplicationIcon=Z:\OS2\WDSIBYL\Bin\OS2\default_win32.ico
 
 [Browser Files]
 
@@ -84,7 +84,7 @@ MaxErrors=10
 
 [Component Library]
 
-CompLibName=F:\Sprachen\pascal\WDSibyl\Bin\OS2\COMPLIB.dll
+CompLibName=D:\WDSibyl\Bin\OS2\COMPLIB.dll
 
 [Component Library Linux]
 
@@ -92,7 +92,7 @@ CompLibName=
 
 [Component Library OS/2]
 
-CompLibName=..\..\.\Bin\OS2\CompLib.dll
+CompLibName=..\..\Bin\OS2\CompLib.dll
 
 [Component Library Win32]
 

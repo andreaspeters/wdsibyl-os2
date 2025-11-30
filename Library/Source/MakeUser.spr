@@ -8,86 +8,9 @@ ApplicationIcon=Z:\os2\WDSIBYL\Bin\OS2\DEFAULT_OS2.ICO
 
 [Application Options Win32]
 
-ApplicationIcon=F:\SPRACHEN\PASCAL\WDSIBYL\BIN\OS2\default_win32.ico
+ApplicationIcon=Z:\os2\WDSibyl\Bin\OS2\default_win32.ico
 
 [Browser Files]
-
-File0=SYSTEM
-File1=OS2DEF
-File2=BSETIB
-File3=BSEEXCPT
-File4=BSEDOS
-File5=BSEERR
-File6=PMWIN
-File7=PMWP
-File8=PMSHL
-File9=SYSUTILS
-File10=MESSAGES
-File11=COLOR
-File12=USTREAM
-File13=ULIST
-File14=USTRING
-File15=PMSPL
-File16=BSEREGISTRY
-File17=INIFILES
-File18=PMWINX
-File19=USYSINFO
-File20=USYSCLASS
-File21=DOS
-File22=CLASSES
-File23=PMBITMAP
-File24=PMGPI
-File25=PMDEV
-File26=PMSTDDLG
-File27=PMHELP
-File28=CLIPBRD
-File29=UCONVERT
-File30=GRAPHICS
-File31=ULANGUAGE
-File32=MENUS
-File33=PRINTERS
-File34=FORMS
-File35=BUTTONS
-File36=STDCTRLS
-File37=BMPLIST
-File38=EXTCTRLS
-File39=COMCTRLS
-File40=FILECTRL
-File41=DIALOGS
-File42=DBLAYER
-File43=DBBASE
-File44=CHART
-File45=MASK
-File46=GRIDS
-File47=UDATETIME
-File48=CALENDAR
-File49=CHECKLB
-File50=CLOCKS
-File51=COLORGRD
-File52=COOLBAR
-File53=OUTLINE
-File54=DIROUTLN
-File55=DUALLIST
-File56=XPLORBTN
-File57=EDITLIST
-File58=GLYPHBTN
-File59=GRADIENT
-File60=HINTS
-File61=LED
-File62=SYNCCOMP
-File63=SCKTCOMP
-File64=SEVEN
-File65=SPIN
-File66=UPROGRESSTEXT
-File67=BSEDEV
-File68=UPORTS
-File69=UCOLORWHEEL
-File70=UDIRECTORYEDIT
-File71=UOUTLINE2
-File72=UCONTROLSCROLLING
-File73=UCOSTOMDIROUTLINE
-File74=UCOSTOMOUTLINE
-File75=UCOOLBAR2
 
 [Compiler Options]
 
@@ -109,7 +32,7 @@ CompLibName=
 
 [Component Library OS/2]
 
-CompLibName=..\..\.\Bin\OS2\CompLib.dll
+CompLibName=..\..\Bin\OS2\CompLib.dll
 
 [Component Library Win32]
 
@@ -194,71 +117,9 @@ Platform=OS/2
 
 [Last Closed Files]
 
-File0=.\COMPNT\SCKTCOMP.PAS
-File1=.\SPCC\COMCTRLS.PAS
-File2=.\Compnt\COOLBAR.PAS
-File3=.\Compnt\DUALLIST.PAS
-File4=.\Compnt\SPIN.PAS
-File5=.\Compnt\LED.PAS
 
 [Last Open Files]
 
-File0=.\MakeCompnt.PAS
-File0.Left=-1
-File0.Bottom=-1
-File0.Width=952
-File0.Height=604
-File0.Column=17
-File0.Line=18
-File1=.\Compnt\SyncComp.PAS
-File1.Left=-1
-File1.Bottom=-1
-File1.Width=952
-File1.Height=604
-File1.Column=1
-File1.Line=1
-File2=.\Compnt\Chart.PAS
-File2.Left=-1
-File2.Bottom=-1
-File2.Width=952
-File2.Height=604
-File2.Column=19
-File2.Line=128
-File3=.\Compnt\Hints.PAS
-File3.Left=-1
-File3.Bottom=-1
-File3.Width=952
-File3.Height=604
-File3.Column=1
-File3.Line=24
-File4=.\Compnt\BmpList.PAS
-File4.Left=-1
-File4.Bottom=-1
-File4.Width=952
-File4.Height=604
-File4.Column=21
-File4.Line=15
-File5=.\Compnt\Calendar.PAS
-File5.Left=-1
-File5.Bottom=-1
-File5.Width=952
-File5.Height=604
-File5.Column=63
-File5.Line=419
-File6=.\RTL\SysUtils.pas
-File6.Left=-1
-File6.Bottom=-1
-File6.Width=952
-File6.Height=604
-File6.Column=60
-File6.Line=32
-File7=.\SPCC\CLASSES.PAS
-File7.Left=-1
-File7.Bottom=-1
-File7.Width=952
-File7.Height=604
-File7.Column=21
-File7.Line=18
 
 [Linker Options]
 
@@ -281,27 +142,20 @@ MainFile0=.\MakeCompnt.PAS
 MainFile0.Ext=.EXE
 MainFile0.Checksum=18176
 MainFile0.Expanded=False
-MainFile0.File0=.\Compnt\BMPLIST.PAS
-MainFile0.File1=.\Compnt\CALENDAR.PAS
-MainFile0.File2=.\Compnt\CHECKLB.PAS
-MainFile0.File3=.\Compnt\CLOCKS.PAS
-MainFile0.File4=.\Compnt\COLORGRD.PAS
-MainFile0.File5=.\Compnt\COOLBAR.PAS
-MainFile0.File6=.\Compnt\DIROUTLN.PAS
-MainFile0.File7=.\Compnt\DUALLIST.PAS
-MainFile0.File8=.\Compnt\EDITLIST.PAS
-MainFile0.File9=.\Compnt\GLYPHBTN.PAS
-MainFile0.File10=.\Compnt\GRADIENT.PAS
-MainFile0.File11=.\Compnt\HINTS.PAS
-MainFile0.File12=.\Compnt\LED.PAS
-MainFile0.File13=.\Compnt\SCKTCOMP.PAS
-MainFile0.File14=.\Compnt\SEVEN.PAS
-MainFile0.File15=.\Compnt\SPIN.PAS
-MainFile0.File16=.\Compnt\SYNCCOMP.PAS
-MainFile0.File17=.\Compnt\XPLORBTN.PAS
-MainFile0.File18=.\Compnt\WRAPED.PAS
-MainFile0.File19=.\Compnt\CHART.PAS
-MainFile0.File20=[Dependencies]
+MainFile0.File0=.\Compnt\uProgressText.PAS
+MainFile0.File1=.\Compnt\uPorts.PAS
+MainFile0.File2=.\Compnt\uColorWheel.PAS
+MainFile0.File3=.\Compnt\uDirectoryEdit.pas
+MainFile0.File4=.\Compnt\uOutline2.pas
+MainFile0.File5=.\Compnt\uControlScrolling.pas
+MainFile0.File6=.\Compnt\uCustomDirOutline.pas
+MainFile0.File7=.\Compnt\uCustomOutline.pas
+MainFile0.File8=.\Compnt\uCoolbar2.pas
+MainFile0.File9=.\Compnt\uOKCancelButton.pas
+MainFile0.File10=.\Compnt\uCustomListBox.pas
+MainFile0.File11=.\Compnt\uSplitBar.pas
+MainFile0.File12=.\Compnt\uCanvasFontManager.pas
+MainFile0.File13=[Dependencies]
 MainFile0.Dependency0=.\RTL\SYSTEM.PAS
 MainFile0.Dependency1=.\RTL\OS2\OS2DEF.PAS
 MainFile0.Dependency2=.\RTL\OS2\BSETIB.PAS

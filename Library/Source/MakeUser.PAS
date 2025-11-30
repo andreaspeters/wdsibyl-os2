@@ -17,6 +17,20 @@ program makeCompnt;
 uses BMPLIST, CHART, CALENDAR, CHECKLB, CLOCKS, COLORGRD, COOLBAR, DIROUTLN,
      DUALLIST, EDITLIST, GLYPHBTN, GRADIENT, HINTS, LED, SCKTCOMP, SEVEN,
      SPIN, SYNCCOMP, XPLORBTN, CHART;
+            
+uses uProgressText,
+     uPorts,              { Komponente fuer die Serielle-Schnittstelle; vorher tSerial und Joystick }
+     uColorWheel,         { Komponente fuer ColorWheel und ValueBar }
+     uDirectoryEdit,
+     uOutline2,
+     uControlScrolling,
+     uCustomDirOutline,
+     uCustomOutline,
+     uCoolbar2,
+     uOKCancelButton,
+     uCustomListBox,
+     uSplitBar,
+     uCanvasFontManager;
                    
 BEGIN                   
 END.

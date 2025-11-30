@@ -176,7 +176,7 @@ CompInstallDir=
 
 [Directories OS/2]
 
-LastDir=D:\WDSIBYL\IDE\SOURCE
+LastDir=Z:\OS2\WDSIBYL\IDE\SOURCE
 OutDir=D:\WDSIBYL\OS\OS2\Output
 LibDir=D:\Projekte\WDSIBYL\Lib
 LibSrcDir=
@@ -214,7 +214,7 @@ Find15=EvPipeIn
 [General]
 
 Version=Sibyl Project Ver2.05
-ProjectName=D:\WDSibyl\IDE\WDSibylIDE.spr
+ProjectName=Z:\os2\WDSibyl\IDE\WDSibylIDE.spr
 ProjectType=NonVisual
 RunParameter=-log -nopipe
 InActiveLanguages=
@@ -235,58 +235,58 @@ File0=.\Source\WDSibyl.pas
 File0.Left=-1
 File0.Bottom=-1
 File0.Width=798
-File0.Height=446
+File0.Height=702
 File0.Column=11
 File0.Line=65
 File1=.\Source\NAVIGATE.PAS
 File1.Left=-1
 File1.Bottom=-1
 File1.Width=798
-File1.Height=446
+File1.Height=702
 File1.Column=12
 File1.Line=35
 File2=.\Source\INSPECT.PAS
 File2.Left=-1
 File2.Bottom=-1
 File2.Width=798
-File2.Height=446
+File2.Height=702
 File2.Column=1
 File2.Line=49
 File3=..\.\Compiler\Source\Share\CONSTS.PAS
 File3.Left=-1
 File3.Bottom=-1
 File3.Width=798
-File3.Height=446
+File3.Height=702
 File3.Column=1
 File3.Line=52
 File4=.\SOURCE\BASEEDIT.PAS
 File4.Left=-1
 File4.Bottom=-1
 File4.Width=798
-File4.Height=446
+File4.Height=702
 File4.Column=29
 File4.Line=219
 File5=.\SOURCE\IDETOOLS.PAS
 File5.Left=-1
 File5.Bottom=-1
 File5.Width=798
-File5.Height=446
+File5.Height=702
 File5.Column=1
 File5.Line=1
 File6=.\Source\SIB_PRJ.PAS
 File6.Left=-1
 File6.Bottom=-1
 File6.Width=798
-File6.Height=446
+File6.Height=702
 File6.Column=35
 File6.Line=3409
 File7=.\Source\SIB_DLG.PAS
 File7.Left=-1
 File7.Bottom=-1
 File7.Width=798
-File7.Height=446
-File7.Column=60
-File7.Line=8831
+File7.Height=702
+File7.Column=37
+File7.Line=8812
 
 [Linker Options]
 
